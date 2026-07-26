@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-qtf4od.pagosonlinesanmateo.top/sitemap.xml
